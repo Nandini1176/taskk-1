@@ -321,7 +321,9 @@ int main(){
             double b;
             cout<<"enter the values of coefficients of eq of the form ax+b=0:"<<endl;
             cout<<"enter the value of a:"<<endl;
+            cin>>a;
             cout<<"enter the value of b:"<<endl;
+            cin>>b;
             cout<<"the value of x is:"<<-b/a<<endl;
         }
         if (l='2'){
